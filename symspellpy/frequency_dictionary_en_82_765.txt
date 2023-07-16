@@ -69812,7 +69812,6 @@ washstand 34902
 nicias 34902
 overspread 34901
 stereogram 34900
-casandra 34899
 biltong 34899
 tumulus 34898
 derogating 34891
